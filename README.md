@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [http://dhyanagni2001-commits.github.io/dhyanagni.github.io/#](http://dhyanagni2001-commits.github.io/dhyanagni.github.io/#)
 
-- 📫 How to reach me **dhyanagni19@gmail.com**
+- 📫 How to reach me **dhyanagni2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
