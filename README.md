@@ -7,14 +7,13 @@ MS in Computer Science @ USC (2025–2027) · Prior full-stack SWE @ Happiest Mi
 
 ---
 
-### 🧰 Technical Interests
-* 🏗️ **Backend & Distributed Systems** – distributed job queues, concurrent processing, chaos testing, REST APIs, microservices with ASP.NET Core, Ocelot and Consul, event streaming with Kafka, and caching with Redis
-* 🧠 **Machine Learning & AI** – RAG pipelines, agentic systems with LangGraph, semantic search using FAISS, TF-IDF and sentence transformers, bi-encoder fine-tuning, GraphSAGE, and zero-shot classification with DistilBERT
-* 💻 **Full-Stack Development** – FastAPI, Node.js, React, Angular, JavaScript, TypeScript and Electron
-* 📱 **Mobile & On-Device AI** – SwiftUI, MVVM, CoreML inference and CloudKit synchronization
-* ☁️ **Cloud, DevOps & Observability** – AWS, GCP, Azure, Docker, Kubernetes, CI/CD, Datadog, Prometheus and Grafana
-* 🗄️ **Data Engineering & Storage** – PostgreSQL, MySQL, MongoDB, Redis, Azure SQL, Pandas, PySpark, ETL pipelines and SQL optimization
-  
+### 🔭 What I work on
+- **Distributed systems & backend infra** — job queues, high-throughput services, chaos testing
+- **AI/ML integration** — RAG pipelines, agentic systems, retrieval and fine-tuning
+- Two portfolio anchors:
+  - **Distributed Job Queue** (SDE track) — PostgreSQL `SELECT FOR UPDATE SKIP LOCKED`, 242 jobs/min at 2.91s p99, chaos testing suite
+  - **HealthIQ** (ML/AI track) — 5-agent LangGraph RAG pipeline over 536K doctors / 5,335 hospitals, FAISS + TF-IDF hybrid retrieval, Precision@10 0.39 → 0.96
+
 ### 🎯 Currently
 Targeting new-grad SDE / applied ML roles for a **June 2027** start.
 
@@ -27,11 +26,12 @@ Targeting new-grad SDE / applied ML roles for a **June 2027** start.
 
 ### 🧰 Technical Interests
 
-* 🏗️ **Backend & Distributed Systems** – distributed job queues, chaos testing, microservices (ASP.NET Core, Ocelot, Consul, Azure SQL), event streaming (Kafka), caching (Redis), observability (Datadog, Grafana)
-* 🧠 **Machine Learning & AI** – RAG pipelines, agentic systems (LangGraph), retrieval (FAISS, TF-IDF, bi-encoder fine-tuning), GNNs (GraphSAGE), zero-shot classification (DistilBERT)
-* 📱 **Full-Stack & Mobile** – React, Angular, TypeScript, SwiftUI/MVVM, CoreML on-device inference
-* ☁️ **Cloud & DevOps** – AWS, GCP, Azure, Docker, Kubernetes, Kafka, Datadog, Grafana
-* 🗄️ **Data & Storage** – PostgreSQL, MySQL, Redis, CloudKit sync
+* 🏗️ **Backend & Distributed Systems** – distributed job queues, concurrent processing, chaos testing, REST APIs, microservices with ASP.NET Core, Ocelot and Consul, event streaming with Kafka, and caching with Redis
+* 🧠 **Machine Learning & AI** – RAG pipelines, agentic systems with LangGraph, semantic search using FAISS, TF-IDF and sentence transformers, bi-encoder fine-tuning, GraphSAGE, and zero-shot classification with DistilBERT
+* 💻 **Full-Stack Development** – FastAPI, Node.js, React, Angular, JavaScript, TypeScript and Electron
+* 📱 **Mobile & On-Device AI** – SwiftUI, MVVM, CoreML inference and CloudKit synchronization
+* ☁️ **Cloud, DevOps & Observability** – AWS, GCP, Azure, Docker, Kubernetes, CI/CD, Datadog, Prometheus and Grafana
+* 🗄️ **Data Engineering & Storage** – PostgreSQL, MySQL, MongoDB, Redis, Azure SQL, Pandas, PySpark, ETL pipelines and SQL optimization
 
 ---
 
