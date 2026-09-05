@@ -8,26 +8,8 @@
 ## About Me
 
 - I build backend systems and applied ML projects, with an emphasis on reliability, evaluation, and deployment tradeoffs.
-- My recent work includes distributed job processing, information retrieval, graph-based fraud detection, and client-side ML inference.
+- My recent work includes distributed job processing, information retrieval, graph-based machine learning, and client-side ML inference.
 - I am seeking new-grad software engineering and applied ML roles starting in June 2027.
-
-## Selected Projects
-
-### [PostgreSQL-Backed Distributed Job Queue](https://github.com/dhyanagni2001-commits/Distributed_Job_Queue_with_PostgresSQL_Coordination)
-
-A distributed job-processing system that coordinates asynchronous workers through PostgreSQL. It implements concurrent job claiming with `SELECT FOR UPDATE SKIP LOCKED`, at-least-once execution, lease-based recovery, retries, dead-letter handling, and Prometheus/Grafana monitoring.
-
-### [FraudMesh](https://github.com/dhyanagni2001-commits/FraudMesh)
-
-An experimental fraud-detection pipeline comparing an XGBoost baseline, XGBoost with graph features, and GraphSAGE. The project uses PR-AUC and recall at fixed false-positive rates, includes a no-edge ablation, and documents where graph structure did and did not improve results.
-
-### [HealthIQ](https://github.com/dhyanagni2001-commits/Agentic-AI-Healthcare-Intelligence-System)
-
-A hospital-data search and analysis application using FAISS, sentence-transformer embeddings, TF-IDF, LangGraph, FastAPI, and React. It combines semantic retrieval with structured filters and rule-based data-quality checks over public healthcare datasets.
-
-### [GestureLens](https://github.com/dhyanagni2001-commits/GestureLens)
-
-A browser-based hand-gesture classifier built with MobileNetV2 and TensorFlow.js. The project covers training, evaluation, TFLite and TensorFlow.js export, webcam preprocessing, and client-side inference.
 
 ## Technical Skills
 
