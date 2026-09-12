@@ -1,8 +1,8 @@
 <h1 align="center">DHYAN AGNI</h1>
-<h3 align="center">Software Engineer — Backend, Distributed Systems & Applied AI</h3>
+<h3 align="center">Software Engineer — Backend Systems & Applied ML</h3>
 
 <p align="center">
-  MS Computer Science @ USC (2025–2027) · Los Angeles, CA · Prior: Full-Stack SWE @ Happiest Minds Technologies
+  MS Computer Science @ USC · Los Angeles, CA
 </p>
 
 <p align="center">
@@ -13,50 +13,53 @@
 
 ---
 
-### > ABOUT
+### > WHO I AM
 
-Backend and applied AI engineer. I build systems that stay correct and fast under load, and ML pipelines that get evaluated against real baselines instead of vibes. Comfortable owning something end to end — API contract, data pipeline, model, deployment. Looking for new-grad SDE / applied ML / forward-deployed engineer roles, June 2027 start.
+I sit between backend engineering and applied ML, and I don't think of them as separate tracks. A model is only as good as the system serving it, and a system is only interesting to me if it's solving something that needed to be learned, not just looked up.
 
----
+I care about:
+- **Systems that hold up under load** — concurrency, failure handling, observability. Not just "it works on my machine."
+- **Evaluation over vibes** — if I can't measure whether something is better, I don't claim it's better.
+- **Owning the whole path** — data in, model or logic in the middle, API out, something a user or another service actually calls.
 
-### > CURRENTLY BUILDING
-
-**[Distributed Job Queue](https://github.com/dhyanagni2001-commits/Distributed_Job_Queue_with_PostgresSQL_Coordination)**
-Fault-tolerant job queue on Postgres using `SELECT FOR UPDATE SKIP LOCKED` for atomic, concurrency-safe task scheduling. 242 jobs/min, 2.91s p99 latency, validated with an automated chaos-testing suite. Observability via Prometheus + Grafana.
-
-**[HealthIQ](https://github.com/dhyanagni2001-commits/Agentic-AI-Healthcare-Intelligence-System)**
-LangGraph-orchestrated RAG workflow over 536K+ provider records and 5,335 hospitals (~250K searchable docs). Hybrid FAISS + TF-IDF retrieval with capability-aware reranking. FastAPI + React, rule-based data-quality checks.
-
-**[FraudMesh](https://github.com/dhyanagni2001-commits/FraudMesh)**
-Fraud detection comparing XGBoost, XGBoost + graph features, and a GraphSAGE GNN on IEEE-CIS data. GraphSAGE wins on synthetic fraud-ring data (PR-AUC 0.82) but loses to the tabular baseline on real IEEE-CIS data — that negative result is in the writeup, not hidden. Served via FastAPI with background graph-refresh caching.
-
-**GestureLens**
-Browser-based hand gesture recognition. MobileNetV2 fine-tuned on HaGRID, ~99.45% validation accuracy, converted to TFLite/TF.js for in-browser inference.
-
-**QueryLens** *(in progress)*
-Bi-encoder fine-tuning with contrastive loss and hard-negative mining on Amazon ESCI, FAISS for retrieval.
+Three years as a full-stack engineer before grad school means I don't see ML as a notebook exercise. I want it shipped, monitored, and able to fail gracefully.
 
 ---
 
-### > EXPERIENCE
+### > RIGHT NOW
 
-- **Full-Stack Software Engineer**, Happiest Minds Technologies — Bengaluru · May 2024–Jul 2025
-  Designed and developed scalable Profile and Flashcard microservices using ASP.NET Core, Angular, MySQL, and Kafka for ATI Testing, serving 10K+ users.
-- **Data Science Intern**, Coulomb AI (YC-backed) — Bengaluru · Mar–Aug 2023
-- **Data Science Intern**, Bounce — Bengaluru · Sep 2023–Apr 2024
+Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines, graph-based learning, on-device inference. Prepping for SDE and applied ML interviews with a real DSA study plan, not just flashcards. Targeting new-grad roles for June 2027.
+
+---
+
+### > STATS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=load" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=load" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=draw" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=draw" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhyanagni2001-commits&theme=github_dark&utcOffset=-8&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" />
+</p>
 
 ---
 
 ### > STACK
 
-| | |
-|---|---|
-| **Backend** | Python, FastAPI, ASP.NET Core, Node.js, REST APIs, microservices |
-| **ML / AI** | PyTorch, TensorFlow, GraphSAGE, Hugging Face Transformers, LangGraph, FAISS, RAG |
-| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Pandas, PySpark |
-| **Infra** | Docker, Kubernetes, Kafka, AWS, Azure, GCP |
-| **Observability** | Prometheus, Grafana, Datadog |
-| **Frontend / Mobile** | React, Angular, SwiftUI |
+**Backend:** Python, FastAPI, ASP.NET Core, Node.js, microservices, REST
+**ML:** PyTorch, TensorFlow, Hugging Face, LangGraph, FAISS, GNNs
+**Data:** PostgreSQL, MySQL, MongoDB, Redis
+**Infra:** Docker, Kubernetes, Kafka, AWS/Azure/GCP
+**Observability:** Prometheus, Grafana, Datadog
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -64,11 +67,9 @@ Bi-encoder fine-tuning with contrastive loss and hard-negative mining on Amazon 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
