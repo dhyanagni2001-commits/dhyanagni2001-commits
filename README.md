@@ -18,18 +18,23 @@
 
 I sit between backend engineering and applied ML. A model is only as good as the system serving it, and a system is only interesting to me if it's solving something that needed to be learned, not just looked up.
 
-I care about:
-- **Systems that hold up under load** — concurrency, failure handling, observability, not just "it works on my machine."
-- **Evaluation over vibes** — if I can't measure whether something is better, I don't claim it's better.
-- **Owning the whole path** — data in, model or logic in the middle, API out, something a user or another service actually calls.
-
 Three years as a full-stack engineer before grad school means I don't treat ML as a notebook exercise. I want it shipped, monitored, and able to fail gracefully.
+
+---
+
+### > WHAT I LIKE WORKING ON
+
+- **Concurrency and failure handling** — the parts of a system that only matter when things go wrong. Getting a worker pool, a queue, or a retry path to behave correctly under real load is more satisfying to me than most feature work.
+- **Retrieval and RAG systems** — the gap between "the model gives an answer" and "the model gives the right answer" is mostly a retrieval problem, and I like sitting in that gap.
+- **Evaluation** — building the harness that tells you if a change actually helped, before you ship it. I'd rather have a boring number than an exciting claim.
+- **Graph-based ML** — problems where the relationships between entities carry as much signal as the entities themselves. Fraud, recommendations, anything with a network underneath.
+- **On-device and browser inference** — getting a model small and fast enough to run without a server round-trip. Different constraints than server-side ML, and I like that tradeoff space.
 
 ---
 
 ### > RIGHT NOW
 
-Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines, graph-based learning, on-device inference. Prepping for SDE and applied ML interviews with a real DSA study plan, not just flashcards. Targeting new-grad roles for June 2027.
+Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines. Prepping for SDE and applied ML interviews with a real DSA study plan, not just flashcards. Targeting new-grad roles for June 2027.
 
 ---
 
@@ -45,25 +50,8 @@ Deep in distributed systems and retrieval-heavy ML — queueing theory, concurre
 
 ---
 
-### > STATS
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=load" />
+  <a href="https://github.com/dhyanagni2001-commits">GitHub</a> ·
+  <a href="https://linkedin.com/in/dhyan-agni">LinkedIn</a> ·
+  <a href="mailto:dhyanagnidev@gmail.com">dhyanagnidev@gmail.com</a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=load" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=draw" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhyanagni2001-commits&theme=github_dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&animation=draw" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhyanagni2001-commits&theme=github_dark&utcOffset=-8&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" />
-</p>
-
----
-
-<p align="center"><sub>Last README refresh: check the stats cards above — they pull live.</sub></p>
