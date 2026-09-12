@@ -18,7 +18,7 @@
 
 I sit between backend engineering and applied ML. A model is only as good as the system serving it, and a system is only interesting to me if it's solving something that needed to be learned, not just looked up.
 
-Three years as a full-stack engineer before grad school means I don't treat ML as a notebook exercise. I want it shipped, monitored, and able to fail gracefully.
+Two years as a full-stack engineer before grad school means I don't treat ML as a notebook exercise. I want it shipped, monitored, and able to fail gracefully.
 
 ---
 
@@ -34,7 +34,7 @@ Three years as a full-stack engineer before grad school means I don't treat ML a
 
 ### > RIGHT NOW
 
-Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines. Prepping for SDE and applied ML interviews with a real DSA study plan, not just flashcards. Targeting new-grad roles for June 2027.
+Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines.
 
 ---
 
