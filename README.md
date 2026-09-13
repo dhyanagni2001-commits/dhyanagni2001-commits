@@ -14,7 +14,7 @@
 
 ---
 
-### > WHO I AM
+### Who I Am
 
 I sit between backend engineering and applied ML. A model is only as good as the system serving it, and a system is only interesting to me if it's solving something that needed to be learned, not just looked up.
 
@@ -22,7 +22,7 @@ Two years as a full-stack engineer before grad school means I don't treat ML as 
 
 ---
 
-### > WHAT I LIKE WORKING ON
+### What I Like Working On
 
 - **Concurrency and failure handling** — the parts of a system that only matter when things go wrong. Getting a worker pool, a queue, or a retry path to behave correctly under real load is more satisfying to me than most feature work.
 - **Retrieval and RAG systems** — the gap between "the model gives an answer" and "the model gives the right answer" is mostly a retrieval problem, and I like sitting in that gap.
@@ -32,13 +32,13 @@ Two years as a full-stack engineer before grad school means I don't treat ML as 
 
 ---
 
-### > RIGHT NOW
+### Right Now
 
 Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines.
 
 ---
 
-### > STACK
+### Stack
 
 | | |
 |---|---|
