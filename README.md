@@ -1,4 +1,4 @@
-<h1 align="center">DHYAN AGNI</h1>
+<h1 align="center">DHYAN S AGNI</h1>
 <h3 align="center">Software Engineer — Backend Systems & Applied ML</h3>
 
 <p align="center">
