@@ -1,57 +1,46 @@
 <h1 align="center">DHYAN S AGNI</h1>
-<h3 align="center">Software Engineer — Backend Systems & Applied ML</h3>
+<h3 align="center">Software Engineer | Backend Systems & Applied ML</h3>
 
 <p align="center">
   MS Computer Science @ USC · Los Angeles, CA
 </p>
 
 <p align="center">
-  <a href="https://dhyanagni2001-commits.github.io/dhyanagni.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff00" /></a>
-  <a href="https://linkedin.com/in/dhyan-agni"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" /></a>
-  <a href="mailto:dhyanagnidev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" /></a>
-  <a href="https://github.com/dhyanagni2001-commits"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff00" /></a>
+  <a href="https://dhyanagni2001-commits.github.io/dhyanagni.github.io">Portfolio</a> ·
+  <a href="https://linkedin.com/in/dhyan-agni">LinkedIn</a> ·
+  <a href="mailto:dhyanagnidev@gmail.com">Email</a> ·
+  <a href="https://github.com/dhyanagni2001-commits">GitHub</a>
 </p>
 
 ---
 
-### Who I Am
+### About Me
 
-I sit between backend engineering and applied ML. A model is only as good as the system serving it, and a system is only interesting to me if it's solving something that needed to be learned, not just looked up.
+I’m a software engineer who enjoys solving complex problems and building reliable, scalable systems.
 
-Two years as a full-stack engineer before grad school means I don't treat ML as a notebook exercise. I want it shipped, monitored, and able to fail gracefully.
+My work focuses on backend engineering, distributed systems, and applied machine learning. I’m especially interested in concurrency, system reliability, retrieval systems, RAG pipelines, and deploying ML models in real-world applications.
 
----
+I don’t see a particular language, framework, or technology as a limitation. The tech stack is a tool—I choose what fits the problem and learn what is needed to solve it effectively.
 
-### What I Like Working On
+### Areas I Work In
 
-- **Concurrency and failure handling** — the parts of a system that only matter when things go wrong. Getting a worker pool, a queue, or a retry path to behave correctly under real load is more satisfying to me than most feature work.
-- **Retrieval and RAG systems** — the gap between "the model gives an answer" and "the model gives the right answer" is mostly a retrieval problem, and I like sitting in that gap.
-- **Evaluation** — building the harness that tells you if a change actually helped, before you ship it. I'd rather have a boring number than an exciting claim.
-- **Graph-based ML** — problems where the relationships between entities carry as much signal as the entities themselves. Fraud, recommendations, anything with a network underneath.
-- **On-device and browser inference** — getting a model small and fast enough to run without a server round-trip. Different constraints than server-side ML, and I like that tradeoff space.
+* Backend and distributed systems
+* Applied machine learning
+* Retrieval and RAG systems
+* Concurrent and fault-tolerant applications
+* ML evaluation and monitoring
+* Graph-based machine learning
+* On-device and browser inference
 
----
+### Technologies
 
-### Right Now
-
-Deep in distributed systems and retrieval-heavy ML — queueing theory, concurrency-safe scheduling, RAG pipelines.
-
----
-
-### Stack
-
-| | |
-|---|---|
-| **Backend** | Python, FastAPI, ASP.NET Core, Node.js, microservices, REST |
-| **ML / AI** | PyTorch, TensorFlow, Hugging Face, LangGraph, FAISS, GNNs |
-| **Data** | PostgreSQL, MySQL, MongoDB, Redis |
-| **Infra** | Docker, Kubernetes, Kafka, AWS, Azure, GCP |
-| **Observability** | Prometheus, Grafana, Datadog |
+`Python` · `C++` · `C#` · `JavaScript` · `FastAPI` · `ASP.NET Core` · `Node.js`
+`PyTorch` · `TensorFlow` · `Hugging Face` · `LangGraph` · `FAISS`
+`PostgreSQL` · `MongoDB` · `Redis` · `Kafka`
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `GCP`
 
 ---
 
 <p align="center">
-  <a href="https://github.com/dhyanagni2001-commits">GitHub</a> ·
-  <a href="https://linkedin.com/in/dhyan-agni">LinkedIn</a> ·
-  <a href="mailto:dhyanagnidev@gmail.com">dhyanagnidev@gmail.com</a>
+  Always learning, building, and solving.
 </p>
