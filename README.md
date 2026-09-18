@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend & Applied AI</h3>
 
 <p align="center">
-  MS CS Candidate @ University of Southern California · Los Angeles, CA
+  MS CS @ University of Southern California · Los Angeles, CA
 </p>
 
 <p align="center">
