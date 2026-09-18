@@ -1,46 +1,44 @@
 <h1 align="center">DHYAN S AGNI</h1>
-<h3 align="center">Software Engineer | Backend Systems & Applied ML</h3>
+<h3 align="center">Software Engineer | Backend & Applied AI</h3>
 
 <p align="center">
-  MS Computer Science @ USC · Los Angeles, CA
+  MS CS Candidate @ USC · Los Angeles, CA
 </p>
 
 <p align="center">
   <a href="https://dhyanagni2001-commits.github.io/dhyanagni.github.io">Portfolio</a> ·
   <a href="https://linkedin.com/in/dhyan-agni">LinkedIn</a> ·
-  <a href="mailto:dhyanagnidev@gmail.com">Email</a> ·
-  <a href="https://github.com/dhyanagni2001-commits">GitHub</a>
+  <a href="mailto:dhyanagnidev@gmail.com">Email</a>
 </p>
 
 ---
 
 ### About Me
 
-I’m a software engineer who enjoys solving complex problems and building reliable, scalable systems.
+I’m a software engineer and MS Computer Science student at USC. I enjoy building reliable backend systems and exploring how distributed infrastructure can support real-world AI applications.
 
-My work focuses on backend engineering, distributed systems, and applied machine learning. I’m especially interested in concurrency, system reliability, retrieval systems, RAG pipelines, and deploying ML models in real-world applications.
+My interests include backend engineering, distributed systems, model serving, retrieval systems, and production AI. I like understanding how systems work, improving their performance, and choosing the right tools for each problem.
 
-I don’t see a particular language, framework, or technology as a limitation. The tech stack is a tool—I choose what fits the problem and learn what is needed to solve it effectively.
+Outside of tech, you’ll usually find me on a tennis court or playing squash.
 
-### Areas I Work In
+### Technical Skills
 
-* Backend and distributed systems
-* Applied machine learning
-* Retrieval and RAG systems
-* Concurrent and fault-tolerant applications
-* ML evaluation and monitoring
-* Graph-based machine learning
-* On-device and browser inference
+**Languages:** `Python` · `C#` · `C++` · `SQL` · `JavaScript` · `TypeScript`
 
-### Technologies
+**Backend:** `FastAPI` · `ASP.NET Core` · `REST APIs` · `Microservices` · `WebSockets`
 
-`Python` · `C++` · `C#` · `JavaScript` · `FastAPI` · `ASP.NET Core` · `Node.js`
-`PyTorch` · `TensorFlow` · `Hugging Face` · `LangGraph` · `FAISS`
-`PostgreSQL` · `MongoDB` · `Redis` · `Kafka`
-`Docker` · `Kubernetes` · `AWS` · `Azure` · `GCP`
+**Distributed Systems:** `Kafka` · `Concurrency` · `Asynchronous Processing` · `Fault Tolerance` · `Caching`
+
+**Databases:** `PostgreSQL` · `MySQL` · `Redis` · `FAISS`
+
+**AI/ML:** `PyTorch` · `Hugging Face` · `Embeddings` · `RAG` · `AI Agents` · `LangGraph` · `MCP` · `Model Serving` · `Model Evaluation`
+
+**Cloud & Infrastructure:** `AWS` · `Azure` · `Docker` · `Kubernetes` · `Linux` · `CI/CD`
+
+**Observability & Testing:** `Prometheus` · `Grafana` · `Datadog` · `Logging` · `Metrics` · `Unit Testing` · `Integration Testing`
 
 ---
 
 <p align="center">
-  Always learning, building, and solving.
+  Building reliable systems that bring AI into production.
 </p>
